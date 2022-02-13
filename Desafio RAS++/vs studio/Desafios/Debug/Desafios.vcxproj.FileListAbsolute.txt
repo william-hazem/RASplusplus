@@ -1,0 +1,2 @@
+C:\Users\willi\OneDrive\Documentos\C++\RASplusplus\Desafio RAS++\vs studio\Desafios\Debug\Desafios.exe
+C:\Users\willi\OneDrive\Documentos\C++\RASplusplus\Desafio RAS++\vs studio\Desafios\Debug\Desafios.pdb
